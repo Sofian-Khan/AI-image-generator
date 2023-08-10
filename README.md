@@ -23,3 +23,4 @@ This is a simple image generator built with Node.js and Express that uses [OpenA
 - `dotenv`: Loads environment variables from a `.env` file.
 - `openai`: Official OpenAI API library for Node.js.
 
+![AI image generator result image](https://github.com/Sofian-Khan/AI-image-generator/assets/107492899/72094ae7-9650-4d88-ba41-4609e5ae1966)
